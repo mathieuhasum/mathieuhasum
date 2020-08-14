@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 💬 I'm a Frontend engineer, nice to meet you!
-- 💻 I mainly work with React and JavaScript.
-- 👀 You can visit my blog on [hasum.io](https://hasum.io). 
-- Feel free to contact me there if you want to reach out for anything :).
+- ✨ I'm a Frontend engineer
+- 💻 I mainly work with React and JavaScript
+- 📝 You can visit my blog on [hasum.io](https://hasum.io)
+- 👐 Feel free to reach out
 
 <!--
 **mathieuhasum/mathieuhasum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
