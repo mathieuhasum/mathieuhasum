@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a Frontend engineer, nice to meet you!
+You can visit my blog on [hasum.io](https://hasum.io) and contact me there if you want to reach out. 
 
 <!--
 **mathieuhasum/mathieuhasum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
