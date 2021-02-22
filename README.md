@@ -1,1 +1,1 @@
-[hasum.io](https://hasum.io)
+🔥 [hasum.io](https://hasum.io)
